@@ -1,0 +1,1 @@
+Follow the instructions in images.png to run or change the imput process make it run as you wish.
